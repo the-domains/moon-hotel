@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Moon Hotel]]></title>
+        <description><![CDATA[Moon Hotel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 20:58:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lorem Ipsum]]></title>
+            <description><![CDATA[<article><h1>Lorem Ipsum</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7782a8323ad5581afda8fd6a0c3f390c91122b7.jpg"></article>]]></description>
+            <link>undefinedlorem-ipsum/index.html</link>
+            <guid isPermaLink="false">a5b6ae0a-aae1-4be4-a2f5-530085a1abda</guid>
+            <pubDate>Wed, 23 Dec 2015 20:58:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
